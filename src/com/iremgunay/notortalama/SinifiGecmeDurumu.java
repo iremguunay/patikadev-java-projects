@@ -47,6 +47,7 @@ public class SinifiGecmeDurumu {
 
         ortalama = toplamNot / toplamDersSayisi;
 
+
         if(ortalama <= 55) {
             System.out.println("Geçme durumu: Kaldınız, seneye görüşürüz!");
         } else {
