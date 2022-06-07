@@ -6,10 +6,10 @@ public class KullaniciGirisi {
 
     public static void main(String[] args) {
 
-        String username = "";
-        String password = "";
-        String decision = "";
-        String newPassword = "";
+        String username;
+        String password;
+        String decision;
+        String newPassword;
 
         Scanner input = new Scanner(System.in);
         System.out.print("Kullanıcı adını giriniz: ");
